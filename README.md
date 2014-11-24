@@ -1,0 +1,1 @@
+This app allows users to add events to a calendar
